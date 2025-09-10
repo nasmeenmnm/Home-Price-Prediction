@@ -26,10 +26,16 @@ Frontend: The user interface is built using HTML, CSS, and JavaScript. It allows
 To run this project, you need a Python environment with the required libraries. The core libraries used are Pandas, Numpy, and Scikit-learn. The web server is powered by Flask.
 
 💡 Key Features
-Accurate Price Prediction: Uses a Linear Regression model to provide a reliable price estimate.
+Accurate Price Prediction:
+
+
+
+ Uses a Linear Regression model to provide a reliable price estimate.
 
 Robust Data Processing: Includes comprehensive data cleaning and outlier removal techniques to improve model accuracy.
 
 User-Friendly Interface: The frontend allows for easy input and quick display of results.
 
 Modular Design: The project separates the backend logic (Python/Flask) from the frontend presentation (HTML/CSS/JS).
+https://github.com/user-attachments/assets/22d6d46e-39b7-4054-beb1-9c640039856d
+<img width="1021" height="810" alt="Screenshot 2025-09-11 003356" src="https://github.com/user-attachments/assets/e817d127-4dd1-4230-8568-b41cee788812" />
